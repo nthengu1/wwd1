@@ -1,0 +1,31 @@
+body {
+	background:black; 
+}
+selector{
+	color;white
+Logo-box{
+	margin-left:30px;
+}
+nav a {
+    text-align: center;
+    color: #fcfbfb;
+    text-decoration: none;
+}    
+         
+ul{
+	list-style-type:none;
+}
+li{
+	display:inline;
+}
+h1,h2,h3,h4,h5,h6{
+	color:#fcfbfb; 
+	margin-left:30px;
+}
+
+footer p {
+    font-size: 1.2em;
+}
+footer p a:hover {
+    text-decoration: underline;
+}    
